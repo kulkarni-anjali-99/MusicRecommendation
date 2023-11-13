@@ -1,0 +1,11 @@
+flask
+librosa
+numpy
+flask_cors
+pandas
+scikit-learn==0.22.2.post1
+lightgbm
+python-dotenv
+unsilence
+Gunicorn
+pickle-mixin
